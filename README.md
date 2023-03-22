@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/단어-색깔?style=flat-square&logo=로고이름&logoColor=색깔"/></a>](url)
 -->
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Effort%20never%20betrays&fontSize=30&fontAlignY=40" />
 <a href="https://loui3.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-3DDC84?style= for-the-badge&logo=aseprite&logoColor=FDFF57"/></a>
