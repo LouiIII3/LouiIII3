@@ -28,7 +28,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/HTML5-E6B91E?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CSS3-2496ED?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
   <a href="https://github.com/LouiIII3/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-2496ED?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
 </p>
