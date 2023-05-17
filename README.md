@@ -36,5 +36,4 @@ Here are some ideas to get you started:
 <p align="center">
  <a href="https://loui3.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-3DDC84?style= for-the-badge&logo=aseprite&logoColor=FDFF57"/></a><br><br>
   
-  
-  [![JIHO's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouiIII3&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/jiholee0/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouiIII3)](https://github.com/LouiIII3/github-readme-stats)
