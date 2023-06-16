@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">:book: Follow Me :book:</h3>
 <p align="center">
- <a href="https://loui3.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-3DDC84?style= for-the-badge&logo=aseprite&logoColor=FDFF57"/></a><br><br>
+ <a href="" target="_blank"><img src="https://img.shields.io/badge/BLOG-3DDC84?style= for-the-badge&logo=aseprite&logoColor=FDFF57"/></a><br><br>
   
 <hr>
 
