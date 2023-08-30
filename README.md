@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <a href="https://github.com/LouiIII3/Python" target="_blank"><img src="https://img.shields.io/badge/Python-3766AA?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C-fffff?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <a href="https://github.com/LouiIII3/Express" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
   <br>
     <a href="https://github.com/LouiIII3/Springboot" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
   <a href="https://github.com/LouiIII3/Node.js" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <a href="https://github.com/LouiIII3/Express" target="_blank"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/MYSQL-483D8B?style=flat-square&logo=MYSQL&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/HTML5-E6B91E?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
   <a href="https://github.com/LouiIII3/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS3-2496ED?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp 
