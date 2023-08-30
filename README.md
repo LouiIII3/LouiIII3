@@ -38,7 +38,12 @@ Here are some ideas to get you started:
 
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouiIII3&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouiIII3&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LouiIII3&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouiIII3&hide_progress=true" alt="Top Languages" />
+  </a>
+</div>
+
 
 
