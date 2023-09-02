@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Effort%20never%20betrays&fontSize=30&fontAlignY=40" />
 </h1>
 
+<!--
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLouiIII3&count_bg=%23000000&title_bg=%23000000&icon=darkreader.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false"/></a>
+-->
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
