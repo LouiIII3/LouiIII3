@@ -43,14 +43,34 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/BLOG-3DDC84?style=for-the-badge&logo=aseprite&logoColor=FDFF57"/>
 </a>
 
-<hr>
+
+<h3 align="center">🧭 About Me 🧭</h3>
+<p align="center">
+💡 최근 관심: Apache Kafka, AWS, Apache Hadoop, Redis, 보안<br>
+💻 주로 Spring Boot & Next.js 기반의 풀스택 개발<br>
+📦 팀 프로젝트에서 클라우드/인증/백엔드 리드 경험<br>
+🛠️ 목표: 사용자 경험과 보안을 동시에 만족시키는 서비스 개발<br>
+</p>
+
+
+
+<hr> 
+
+<h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LouiIII3&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouiIII3&hide_progress=true" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouiIII3&layout=compact&theme=radical&hide_border=true&langs_count=6&card_width=150" width="32%" />
 </div>
+
+<br>
+
+<br>
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LouiIII3&theme=algolia&margin-w=6&margin-h=10&no-bg=true&no-frame=true&row=4&column=9" width="90%" />
+</p>
 
 
 
